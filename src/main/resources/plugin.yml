@@ -1,0 +1,4 @@
+name: ServerUtil
+version: '1.0'
+main: de.julianweinelt.caesar.serverUtil.ServerUtil
+api-version: '1.21'
