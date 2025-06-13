@@ -9,7 +9,7 @@ This plugin fixes these problems, it adds a local command `/bserver` for use wit
 
 ## 💻 Requirements
 - The plugin was tested with **Minecraft version 1.20.x-1.21.x** but may also work with older versions.
-- Java 17 (Version with Java 8 is in the works)
+- Java 21 (Version with Java 8 is in the works)
 
 ## 📤 How to install
 1. Stop your server.
